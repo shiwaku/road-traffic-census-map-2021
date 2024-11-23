@@ -1,6 +1,6 @@
 # 道路交通センサスマップ2021 on MapLibre GL JS
 ## Public Website
-https://shi-works.github.io/road-traffic-census-map-2021/
+https://shiwaku.github.io/road-traffic-census-map-2021/
 
 ![image](https://github.com/shi-works/road-traffic-census-map-2021/assets/71203808/ecd1029a-93e5-42e9-ad34-327d63562cfa)
 
@@ -20,7 +20,7 @@ https://shi-works.github.io/road-traffic-census-map-2021/
 `https://xs489works.xsrv.jp/pmtiles-data/traffic-census/traffic_census_2021_convert.parquet`,97MB
 
 ## 道路交通センサスマップ2015
-https://github.com/shi-works/road-traffic-census-map-2015
+https://github.com/shiwaku/road-traffic-census-map-2015
 
 ## GIS Dataのライセンスについて
 本データセットは[CC-BY-4.0](https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/traffic-accident/LICENSE)で提供されます。使用の際には本リポジトリへのリンクを提示してください。
